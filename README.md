@@ -1,5 +1,4 @@
-# Vue3 app for learn
-
+# learn_appv2
 
 ## Project setup
 ```
