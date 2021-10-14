@@ -1,5 +1,5 @@
 # learn_appv2
-
+https://play.tailwindcss.com/kPsDBe8haa?size=628x720
 ## Project setup
 ```
 npm install
